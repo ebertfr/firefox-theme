@@ -1,0 +1,64 @@
+{
+  "manifest_version": 2,
+  "version": "2.0.0",
+  "name": "All Black Pro [True AMOLED Theme]",
+  "description": "Pure AMOLED black Firefox theme with zero borders and no outlines. Everything is full black (#000000).",
+  "author": "ebertfr",
+  "homepage_url": "https://ebertfr.com/",
+  "theme": {
+    "colors": {
+      "frame": "#000000",
+      "frame_inactive": "#000000",
+
+      "toolbar": "#000000",
+      "toolbar_text": "#FFFFFF",
+
+      "tab_text": "#FFFFFF",
+      "tab_background_text": "#808080",
+      "tab_selected": "#000000",
+      "tab_line": "#000000",
+      "tab_loading": "#000000",
+      "tab_background_separator": "#000000",
+
+      "toolbar_top_separator": "#000000",
+      "toolbar_bottom_separator": "#000000",
+      "toolbar_vertical_separator": "#000000",
+
+      "toolbar_field": "#000000",
+      "toolbar_field_text": "#FFFFFF",
+      "toolbar_field_focus": "#000000",
+      "toolbar_field_text_focus": "#FFFFFF",
+      "toolbar_field_border": "#000000",
+      "toolbar_field_border_focus": "#000000",
+      "toolbar_field_separator": "#000000",
+      "toolbar_field_highlight": "#1A1A1A",
+      "toolbar_field_highlight_text": "#FFFFFF",
+
+      "popup": "#000000",
+      "popup_text": "#FFFFFF",
+      "popup_border": "#000000",
+      "popup_highlight": "#1A1A1A",
+      "popup_highlight_text": "#FFFFFF",
+
+      "sidebar": "#000000",
+      "sidebar_text": "#FFFFFF",
+      "sidebar_border": "#000000",
+      "sidebar_highlight": "#1A1A1A",
+      "sidebar_highlight_text": "#FFFFFF",
+
+      "bookmark_text": "#FFFFFF",
+      "icons": "#FFFFFF",
+      "icons_attention": "#FFFFFF",
+      "button_background_hover": "#000000",
+      "button_background_active": "#000000"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "allblackpro@ebertfr.com"
+    }
+  },
+  "developer": {
+    "name": "ebertfr"
+  }
+}
