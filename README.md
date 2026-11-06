@@ -15,7 +15,7 @@ A 100% pure black (`#000000`) theme for Mozilla Firefox built for true dark mode
 ## Installation
 
 ### Option 1: Firefox Add-ons (Recommended)
-Install directly from [Firefox Browser Add-ons](https://addons.mozilla.org/).
+Install directly from [Firefox Browser Add-ons](https://addons.mozilla.org/en-US/firefox/addon/all-black-pro/).
 
 ### Option 2: Manual Installation
 1. Download the `manifest.json` file from this repository.
